@@ -13,7 +13,7 @@ Hono Tasks Backend is a Node.js-based task management API built with [Hono](http
 - **Environment Configuration:** Managed using **dotenv** and **dotenv-expand**.
 
 <p align="center">
-   <img src="https://github.com/sk-bittok/tasks-auth/blob/master/assets/tasks-api-auth.png", width="400">
+   <img src="https://github.com/sk-bittok/tasks-auth/blob/master/assets/tasks-api-auth.png", width="400" alt="Scalar OpenAPI documentation of the Tasks API">
 </p>
 
 ## Technologies Used
